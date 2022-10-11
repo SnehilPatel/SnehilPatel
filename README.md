@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Snehil Patel <img src="https://media1.giphy.com/media/kReKcfrs1YoTmt2AQt/giphy.gif?cid=ecf05e4700pjxen2ai70pw0h75oojlobtcvaffb240hl04v7&rid=giphy.gif&ct=s" width="75"></h1>
 <h3 align="center">A Problem Solver and a learning Web Developer.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anshikaagrawal5501&label=Profile%20views&color=0e75b6&style=flat" alt="anshikaagrawal5501" /> </p>
 <img align="right" src="1.png" width="225px" />
 
 
