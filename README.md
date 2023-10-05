@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
         
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Software Developer at **Bajaj Finserv**
 
 - 💰 I am well versed with **Machine Learning**
 
